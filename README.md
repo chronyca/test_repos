@@ -1,2 +1,2 @@
 # Security Test repos
-## Testing a bunch of integrations here + test
+## Testing a bunch of integrations here
